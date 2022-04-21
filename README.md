@@ -3,6 +3,8 @@
 Check out:
 https://github.com/DIFI-Consortium/DIFI-Certification
 
+[DIFI Certification](https://github.com/DIFI-Consortium/DIFI-Certification)
+
 GitHub Pages runs [Jekyll](https://jekyllrb.com/) to update the pages in my site from this markdown.
 
 ### Jekyll Themes
